@@ -1,1 +1,2 @@
-This is a training file
+Hello,
+this is a training file
